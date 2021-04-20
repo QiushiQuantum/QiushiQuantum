@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to Qiushi Quantum.
+
+欢迎光临求是量子的GitHub页面。
+
 <!--
 **QiushiQuantum/QiushiQuantum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
